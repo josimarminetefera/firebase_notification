@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "898967605582",
+    "firebase_url": "https://fir-fluuter-notification.firebaseio.com",
+    "project_id": "fir-fluuter-notification",
+    "storage_bucket": "fir-fluuter-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898967605582:android:8c4da30f5e82e994",
+        "android_client_info": {
+          "package_name": "br.com.minete.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898967605582-4cmg3mc6bp6t2ecp6sm76ilrdg101jtc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.minete.firebasenotification",
+            "certificate_hash": "a2c1c010a9334aab55c2a533f55641084d03dc38"
+          }
+        },
+        {
+          "client_id": "898967605582-fivg3d6de18c5u93s2g3k5u0ushafme9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALTqCCx3An3UQ4CawzargW4bPUcgJclVI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898967605582-fivg3d6de18c5u93s2g3k5u0ushafme9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
